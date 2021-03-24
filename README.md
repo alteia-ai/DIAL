@@ -1,1 +1,1 @@
-# DIAL
+**DIAL** code will be released in this repository. Meanwhile, the code for [DISIR](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/isprs-annals-V-2-2020-877-2020.pdf) is available in [here](https://github.com/delair-ai/DISIR) and the code for [DISCA](http://ceur-ws.org/Vol-2766/paper1.pdf) is available [here](https://github.com/delair-ai/DISCA).
