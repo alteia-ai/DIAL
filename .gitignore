@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+
+# IDE related fodlers
+.idea/
+.vscode/
+
+# Heavy files
+*.tiff
+*.jpg
+*.png
+*.pt
+*.pth
+*.log
+*.csv
+data
+*.yml
